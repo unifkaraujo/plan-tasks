@@ -1,0 +1,16 @@
+export default {
+  hoje: '#C9742E',
+  outros: '#B13B44',
+  planejamento: '#15721E',
+  mes: '#1631BE',
+  calendario: '#6A4C93',
+  secundaria: '#FFF',
+  textoPrincipal: '#7F7F7F',
+  textoSecundario: '#C3C3C3',
+  perigo: 'red',
+  concluida: '#4D7031',
+  borda: '#AAA',
+  placeholder: '#888888',
+  destaque: '#FFB463',
+  fundoModal: 'rgba(0,0,0,0.7)',
+};
