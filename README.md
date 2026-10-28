@@ -287,16 +287,6 @@ cd android && ./gradlew app:installRelease
 
 O APK fica em `android/app/build/outputs/apk/release/app-release.apk`.
 
-## 🗺️ Próximos passos
-
-- [ ] Testes dos hooks com React Native Testing Library
-- [ ] Tarefas recorrentes (repetir toda semana sem precisar planejar)
-- [ ] Notificação local com o resumo do dia
-- [ ] Exportar e importar backup do banco
-- [ ] Migração para TypeScript
-- [ ] Keystore própria para o build de release (hoje assinado com a chave de debug do template)
-- [ ] Carregar a fonte Lato no Android (o `react-native.config.js` aponta para uma pasta que não existe)
-
 ## 📄 Licença
 
 [MIT](LICENSE) © Kaique Araujo
